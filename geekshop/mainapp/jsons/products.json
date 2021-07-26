@@ -1,0 +1,74 @@
+[
+  {
+      "category": "Офис",
+      "name": "Лампа сфера",
+      "price": "5000.00",
+      "quantity": 2,
+      "short_desc": "Лампа",
+      "description": "Современная сферическая лампа.",
+      "image": "product_images/product-1.jpg"
+  },
+  {
+      "category": "Офис",
+      "name": "Кресло из белой кожи",
+      "price": "99000.00",
+      "quantity": 1,
+      "short_desc": "Уникальный дизайн",
+      "description": "Мягкая кожа из туркменских смурфиков",
+      "image": "product_images/product-21.jpg"
+  },
+  {
+      "category": "Дом",
+      "name": "Диван",
+      "price": "19000.00",
+      "quantity": 5,
+      "short_desc": "Очень удобный диван",
+      "description": "Надо брать",
+      "image": "product_images/product-3-sm.jpg"
+  },
+  {
+      "category": "Дом",
+      "name": "Светильник",
+      "price": "1300.00",
+      "quantity": 5,
+      "short_desc": "Настоящий прожектор",
+      "description": "Перед сном обесточить помещение.",
+      "image": "product_images/product-41.jpg"
+  },
+  {
+      "category": "Офис",
+      "name": "Лампа круглая",
+      "price": "1500.00",
+      "quantity": 1,
+      "short_desc": "Лампа",
+      "description": "Современная лампа.",
+      "image": "product_images/product-1.jpg"
+  },
+  {
+      "category": "Классика",
+      "name": "Кресло из кожи",
+      "price": "90000.00",
+      "quantity": 5,
+      "short_desc": "Уникальный дизайн",
+      "description": "Мягкая кожа от абхазских пчеловодов",
+      "image": "product_images/product-21.jpg"
+  },
+  {
+      "category": "Модерн",
+      "name": "Диван-2",
+      "price": "19000.00",
+      "quantity": 5,
+      "short_desc": "Мягкий",
+      "description": "Прощай спина",
+      "image": "product_images/product-3-sm.jpg"
+  },
+  {
+      "category": "Модерн",
+      "name": "Светильник Луна",
+      "price": "1300.00",
+      "quantity": 5,
+      "short_desc": "Светит ночью",
+      "description": "Перед сном обесточить помещение.",
+      "image": "product_images/product-41.jpg"
+  }
+]
